@@ -30,7 +30,7 @@
 #define FLAG_LENGTH 5
 
 /* Debugging flag */
-/* #define DEBUG 1 */
+#define DEBUG 1
 
 #define SF_ONLY 1   /* print connections with SYN and FIN only */
 
